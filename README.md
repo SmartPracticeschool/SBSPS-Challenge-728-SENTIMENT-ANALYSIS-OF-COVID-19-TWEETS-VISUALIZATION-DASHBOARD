@@ -1,6 +1,8 @@
 # SBSPS-Challenge-728-SENTIMENT-ANALYSIS-OF-COVID-19-TWEETS-VISUALIZATION-DASHBOARD
 YOUTUBE_URL:
 UI_URL: https://node-red-lqtop.eu-gb.mybluemix.net/ui
+YOUTUBE_LINK: https://youtu.be/zsspxzb7xmo 
+
 
 _______________________________________________________________________________________________________________________________________
 Challenge Title:  IBM Hack Challenge 2020
